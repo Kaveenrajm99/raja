@@ -48,6 +48,16 @@ function Projects() {
               link="https://github.com/Kaveenrajm99/capstone"
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={shopping}
+              isBlog={false}
+              title="RJ Catalog"
+              description="Item catalog view  with react.js. Product catalogs are tremendously useful marketing and sales assets that organize all your product information in one place.Since its main objective is to categorize product information."
+              link="https://github.com/Kaveenrajm99/capstone"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
