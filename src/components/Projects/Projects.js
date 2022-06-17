@@ -5,6 +5,7 @@ import Particle from "../../components/Projects/Particle";
 
 import brewery from "../../Assets/brewery.jpg";
 import rental from "../../Assets/rental.jfif";
+import food from "../../Assets/food.png"
 import shopping from "../../Assets/shopping.jfif";
 
 function Projects() {
@@ -51,9 +52,9 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={shopping}
+              imgPath={food}
               isBlog={false}
-              title="RJ Catalog"
+              title="Food App"
               description="Item catalog view  with react.js. Product catalogs are tremendously useful marketing and sales assets that organize all your product information in one place.Since its main objective is to categorize product information."
               link="https://github.com/Kaveenrajm99/capstone"
             />

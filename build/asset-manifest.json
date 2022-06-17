@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03780159.chunk.css",
+    "main.js": "/static/js/main.b1128377.chunk.js",
+    "main.js.map": "/static/js/main.b1128377.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.602bef71.js",
+    "runtime-main.js.map": "/static/js/runtime-main.602bef71.js.map",
+    "static/css/2.5dfbe09b.chunk.css": "/static/css/2.5dfbe09b.chunk.css",
+    "static/js/2.ab4b30c4.chunk.js": "/static/js/2.ab4b30c4.chunk.js",
+    "static/js/2.ab4b30c4.chunk.js.map": "/static/js/2.ab4b30c4.chunk.js.map",
+    "static/js/3.f0e5a195.chunk.js": "/static/js/3.f0e5a195.chunk.js",
+    "static/js/3.f0e5a195.chunk.js.map": "/static/js/3.f0e5a195.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.5dfbe09b.chunk.css.map": "/static/css/2.5dfbe09b.chunk.css.map",
+    "static/css/main.03780159.chunk.css.map": "/static/css/main.03780159.chunk.css.map",
+    "static/js/2.ab4b30c4.chunk.js.LICENSE.txt": "/static/js/2.ab4b30c4.chunk.js.LICENSE.txt",
+    "static/media/Kaveen Raj M.880114c9.pdf": "/static/media/Kaveen Raj M.880114c9.pdf",
+    "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
+    "static/media/avatar.5852f40f.svg": "/static/media/avatar.5852f40f.svg",
+    "static/media/brewery.1e85c0cd.jpg": "/static/media/brewery.1e85c0cd.jpg",
+    "static/media/style.css": "/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/static/media/home-main.541f8179.svg",
+    "static/media/rental.84273cd7.jfif": "/static/media/rental.84273cd7.jfif",
+    "static/media/shopping.b5500840.jfif": "/static/media/shopping.b5500840.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.602bef71.js",
+    "static/css/2.5dfbe09b.chunk.css",
+    "static/js/2.ab4b30c4.chunk.js",
+    "static/css/main.03780159.chunk.css",
+    "static/js/main.b1128377.chunk.js"
+  ]
+}
