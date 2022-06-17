@@ -31,16 +31,7 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
-            <li className="social-icons">
-              <a
-                href="https://twitter.com/Kaveen_Raj_M?t=cfpit0xHheyNIJmjOgSmnQ&s=09"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineTwitter />
-              </a>
-            </li>
+
             <li className="social-icons">
               <a
                 href="https://www.linkedin.com/in/kaveen-raj-b0304b217"
@@ -49,16 +40,6 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
-              </a>
-            </li>
-            <li className="social-icons">
-              <a
-                href=" https://www.instagram.com/invites/contact/?i=c9nzwssa4q9y&utm_content=5l2q7wa"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiFillInstagram />
               </a>
             </li>
           </ul>

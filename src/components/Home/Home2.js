@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Html,Css,Bootstrap<br/>javascript,Reactjs<br/>Nodejs,mySql,Mongodb </b>
+                <b className="purple"> Html,Css,Bootstrap<br />javascript,Reactjs<br />Nodejs,mySql,Mongodb </b>
               </i>
               <br />
               <br />
@@ -75,16 +75,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://twitter.com/Kaveen_Raj_M?t=cfpit0xHheyNIJmjOgSmnQ&s=09"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
+
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/kaveen-raj-b0304b217"
@@ -95,16 +86,7 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/invites/contact/?i=c9nzwssa4q9y&utm_content=5l2q7wa/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li>
+
             </ul>
           </Col>
         </Row>
