@@ -27,6 +27,7 @@ function Projects() {
               title="Brewery Api"
               description="By using DOM manipulation fetching data from third party API's to display their details and using filter to filter the specific key value to disply on screen.In this project learn to get data form api's."
               link="https://github.com/Kaveenrajm99/HACKATHON"
+              view="https://kaveenrajhackathon.netlify.app/"
             />
           </Col>
 
@@ -37,6 +38,7 @@ function Projects() {
               title="Rental App"
               description="Renting, also known as hiring or letting, is an agreement where a payment is made for the temporary use of a good, service or property owned by another. A gross lease is when the tenant pays a flat rental amount and the landlord pays for all property charges regularly incurred by the ownership.We provide our service to explore the thinks to know."
               link="https://github.com/Kaveenrajm99/HACKATHON2"
+              view="https://rajahackathon2.netlify.app/"
             />
           </Col>
 
@@ -47,6 +49,7 @@ function Projects() {
               title="RJ Catalog"
               description="Item catalog view  with react.js. Product catalogs are tremendously useful marketing and sales assets that organize all your product information in one place.Since its main objective is to categorize product information."
               link="https://github.com/Kaveenrajm99/capstone"
+              view="https://rjcollection.netlify.app/"
             />
           </Col>
 
@@ -57,6 +60,7 @@ function Projects() {
               title="Food App"
               description="Food delivery apps are the new favorite of the people and that is the final verdict. The ease food delivery apps offer to the people who don’t want to cook at the end of the day is what makes it more loved than any other apps out there."
               link="https://github.com/Kaveenrajm99/food-app"
+              view="https://rjfoodapp.netlify.app/"
             />
           </Col>
         </Row>
