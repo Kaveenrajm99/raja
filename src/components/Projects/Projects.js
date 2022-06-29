@@ -3,10 +3,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../../components/Projects/Particle";
 
-import brewery from "../../Assets/brewery.jpg";
+import spotify from "../../Assets/spotify.png"
 import rental from "../../Assets/rental.jfif";
 import food from "../../Assets/food.png"
-import shopping from "../../Assets/shopping.jfif";
+import todo from "../../Assets/images.jfif"
 
 function Projects() {
   return (
@@ -22,12 +22,13 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={brewery}
+              imgPath={spotify}
               isBlog={false}
-              title="Brewery Api"
-              description="By using DOM manipulation fetching data from third party API's to display their details and using filter to filter the specific key value to disply on screen.In this project learn to get data form api's."
-              link="https://github.com/Kaveenrajm99/HACKATHON"
-              view="https://kaveenrajhackathon.netlify.app/"
+              title="Spotify UI Clone"
+              description="listen music with some functions of small features"
+              link="https://github.com/Kaveenrajm99/SpotitifyUiClone"
+              view="https://spotify-ui-clone-rj.netlify.app/"
+              tech="HTML, Css, Bootstrap and Reactjs"
             />
           </Col>
 
@@ -39,17 +40,7 @@ function Projects() {
               description="Renting, also known as hiring or letting, is an agreement where a payment is made for the temporary use of a good, service or property owned by another. A gross lease is when the tenant pays a flat rental amount and the landlord pays for all property charges regularly incurred by the ownership.We provide our service to explore the thinks to know."
               link="https://github.com/Kaveenrajm99/HACKATHON2"
               view="https://rajahackathon2.netlify.app/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={shopping}
-              isBlog={false}
-              title="RJ Catalog"
-              description="Item catalog view  with react.js. Product catalogs are tremendously useful marketing and sales assets that organize all your product information in one place.Since its main objective is to categorize product information."
-              link="https://github.com/Kaveenrajm99/capstone"
-              view="https://rjcollection.netlify.app/"
+              tech=" HTML, Css, Bootstrap, Reactjs, Expressjs, Nodejs, Mongodb Atlas, NPM"
             />
           </Col>
 
@@ -57,12 +48,28 @@ function Projects() {
             <ProjectCard
               imgPath={food}
               isBlog={false}
-              title="Food App"
-              description="Food delivery apps are the new favorite of the people and that is the final verdict. The ease food delivery apps offer to the people who don’t want to cook at the end of the day is what makes it more loved than any other apps out there."
-              link="https://github.com/Kaveenrajm99/food-app"
-              view="https://rjfoodapp.netlify.app/"
+              title="Italian Foods"
+              description="Food order apps are the new favorite of the people and that is the final verdict. The ease food delivery apps offer to the people who don’t want to cook at the end of the day is what makes it more loved than any other apps out there."
+              link="https://github.com/Kaveenrajm99/italians-food"
+              view="https://italians-food.netlify.app/"
+              tech="HTML, Css, Bootstrap, Reactjs, Expressjs, Nodejs, Mongodb Atlas, NPM"
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={todo}
+              isBlog={false}
+              title="Pocket App"
+              description="Just Anothoer Interactive,Nice beautiful and small to-do application (MERN),Does Everything."
+              link="https://github.com/Kaveenrajm99/todo"
+              view="https://to-do-rj.netlify.app/"
+              tech="HTML, Css, Bootstrap, Reactjs, Expressjs, Nodejs, Mongodb Atlas, NPM"
+
+            />
+          </Col>
+
+
         </Row>
       </Container>
     </Container>
