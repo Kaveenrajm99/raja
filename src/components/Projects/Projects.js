@@ -7,6 +7,7 @@ import spotify from "../../Assets/spotify.png"
 import rental from "../../Assets/rental.jfif";
 import food from "../../Assets/food.png"
 import todo from "../../Assets/images.jfif"
+import dashboard from "../../Assets/dashboard.png"
 
 function Projects() {
   return (
@@ -39,7 +40,7 @@ function Projects() {
               title="Rental App"
               description="Renting, also known as hiring or letting, is an agreement where a payment is made for the temporary use of a good, service or property owned by another. A gross lease is when the tenant pays a flat rental amount and the landlord pays for all property charges regularly incurred by the ownership.We provide our service to explore the thinks to know."
               link="https://github.com/Kaveenrajm99/HACKATHON2"
-              view="https://rajahackathon2.netlify.app/"
+              view="https://rentalapps.netlify.app/"
               tech=" HTML, Css, Bootstrap, Reactjs, Expressjs, Nodejs, Mongodb Atlas, NPM"
             />
           </Col>
@@ -64,6 +65,19 @@ function Projects() {
               description="Just Anothoer Interactive,Nice beautiful and small to-do application (MERN),Does Everything."
               link="https://github.com/Kaveenrajm99/todo"
               view="https://to-do-rj.netlify.app/"
+              tech="HTML, Css, Bootstrap, Reactjs, Expressjs, Nodejs, Mongodb Atlas, NPM"
+
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={dashboard}
+              isBlog={false}
+              title="Student-Teacher Dashboard"
+              description="Just Anothoer Interactive,Student-Teacher Dashboard application (MERN),Does Everything."
+              link="https://github.com/Kaveenrajm99/guvi_task_day31"
+              view="https://rj-student-teacher-dashboard.netlify.app/"
               tech="HTML, Css, Bootstrap, Reactjs, Expressjs, Nodejs, Mongodb Atlas, NPM"
 
             />
