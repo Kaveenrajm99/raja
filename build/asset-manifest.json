@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.03780159.chunk.css",
-    "main.js": "/static/js/main.a7f05170.chunk.js",
-    "main.js.map": "/static/js/main.a7f05170.chunk.js.map",
+    "main.js": "/static/js/main.c314d7dc.chunk.js",
+    "main.js.map": "/static/js/main.c314d7dc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.602bef71.js",
     "runtime-main.js.map": "/static/js/runtime-main.602bef71.js.map",
     "static/css/2.5dfbe09b.chunk.css": "/static/css/2.5dfbe09b.chunk.css",
@@ -17,6 +17,7 @@
     "static/media/Raja Resume.8473f00a.pdf": "/static/media/Raja Resume.8473f00a.pdf",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
     "static/media/avatar.5852f40f.svg": "/static/media/avatar.5852f40f.svg",
+    "static/media/dashboard.e01eb2c8.png": "/static/media/dashboard.e01eb2c8.png",
     "static/media/style.css": "/static/media/pre.d4812f51.svg",
     "static/media/home-main.541f8179.svg": "/static/media/home-main.541f8179.svg",
     "static/media/images.53168880.jfif": "/static/media/images.53168880.jfif",
@@ -28,6 +29,6 @@
     "static/css/2.5dfbe09b.chunk.css",
     "static/js/2.dafc5e6d.chunk.js",
     "static/css/main.03780159.chunk.css",
-    "static/js/main.a7f05170.chunk.js"
+    "static/js/main.c314d7dc.chunk.js"
   ]
 }
